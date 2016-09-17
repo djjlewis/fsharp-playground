@@ -2,7 +2,7 @@
 [<EntryPoint>]
 let main argv =
 
-    // basic assigment of values
+    // basic assignment of values
     let x = 42
     let hi = "Hello"
 
